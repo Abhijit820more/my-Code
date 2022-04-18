@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Learn with code   </title>
+    <link rel="stylesheet"  href="bb.css">
+    <link rel="icon" href="img/icon-1.png">
+    <script>
+        
+      if(navigator.onLine)
+      {
+        
+      }
+      else{
+          alert(" check internate connection ");
+      }
+      
+
+   </script>
+</head>
+<body>
+ 
+    
+    </div>
+    <div class="hh">
+        <ul>
+          
+            <li><a href="about/about.html"> About</a></li>
+            <li><a href="./video/video.html"> Video </a></li>
+            <li><a href="code/all.html">Code</a></li>
+            <li><a href="./youtube/n1.html"> Video-Online </a></li>
+           
+ 
+        </ul>
+    </div>
+
+<div class="f1">
+  <p class="n1">  What is coding ? </p> 
+  
+</div>
+<div class="f2">
+  <p class="n2">  Coding, in simpler terms, means feeding our commands in the computer in a language the computer understands, 
+    so that the computer can carry out the said command, and perform the task.
+</p>
+
+
+ <p class="n3" ><b>Learn coding by diffrent ways </b>  </p>  
+ <ul class="n4"><li class="a1"><a href="video/video.html" >by Video</a>  </li> <li class="a2"> <a href="code/all.html">By Text </a> </li> </ul> 
+
+</div>
+<div class="k1">
+   <a href="other/page1.html"> <img src="img/55.jfif" width="260" height="140"></a> <a href="other/page2.html"> <img src="img/56.jfif"width="260" height="140"> </a>
+</div>
+<div class="k2">
+  <a href="code/all.html"> <img src="img/57.jfif" width="280" height="140"> </a> <a href="video/video.html"> <img src="img/58.jfif" width="280" height="140" > </a>
+</div>
+
+
+
+    <div class="w1">
+      <ul class="g1" >
+        <li> UseFull Link :- </li>
+     <li> <a href="https://www.w3schools.com/"> w3schools  </a> </li>
+     <li> <a href="code/all.html">  all code </a> </li>
+     <li> <a href="video/video.html"> Coding video  </a> </li>
+     <li> <a href="youtube/n1.html">  Youtube video  </a> </li>
+     <li> <a href="https://developer.mozilla.org/en-US/docs/Web">  Mdn refernces </a> </li>
+     <li> <a href="about/about.html"> About  </a> </li>
+     </ul>
+
+     <ul class="g2">
+       <li> Youtube :- </li>
+       <li> <a href="https://www.youtube.com/watch?v=BsDoLVMnmZs">  HTML </a>  </li>
+       <li> <a href="https://www.youtube.com/watch?v=Edsxf_NBFrw&t=20799s">  CSS </a>  </li>
+       <li> <a href="https://www.youtube.com/watch?v=hKB-YGF14SY&t=3s"> JavaScript </a>  </li>
+       <li> <a href="https://www.youtube.com/watch?v=UmnCZ7-9yDY">  Java </a>  </li>
+       <li> <a href="https://www.youtube.com/watch?v=gfDE2a7MKjA&t=7s">  Python </a>  </li>
+     </ul>
+     <p id="speed"> Speed up .com </p>
+     <hr>
+     <p class="p1"> All rights reserved</p>
+   
+   </div>
+</body>
+</html>
