@@ -1,0 +1,35 @@
+<html>
+<head>
+  <link rel="stylesheet"
+        href="css/nave.css">
+        <style>
+           
+        </style>
+</head>
+<body>
+    <ul>
+        <li><a href=""> home </a>  </li>
+        <li>  About </li>
+        <li> Get   </li>
+        <li>  More  </li>
+    </ul>
+    
+    <h1 align="center" class="n1" > How to Make Responsive website  </h1>
+    
+    <img src="img/html.png" width="" height="150px" style="margin-top: 20px; margin-left: 15px ;"> 
+    <h1 class="n2" > HTML </h1>
+    <p class="m1" >The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+      Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+      
+      HTML elements are the building blocks of HTML pages.  </p>
+        <img src="img/css.png"  width="" height="150px" style="margin-left: 40; margin-top:40;" >
+      <h1 class="mm">CSS</h1> 
+      <p class="nn">Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML
+        (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on 
+        paper, in speech, or on other media.CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens,
+         or printers. CSS is independent of HTML and can be used with any XML-based markup language</p> 
+         <img src="img/js.png" width="" height="150px" style="margin-top:50; margin-right: 50; ">
+         <h1 class="kk"> javascript </h1>
+      </body>
+</html>
