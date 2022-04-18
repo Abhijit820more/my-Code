@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+       .hh{
+           background-color: black;
+           color: rgb(202, 243, 20);
+           border:12px solid rgb(223, 192, 22) ;
+           width: 50%;
+           margin: 20px;
+       }
+   </style>
+</head>
+<body>
+    <div class="hh">
+    <xmp>
+        IT is simple program
+    </head>
+    <body>
+        <ul>
+            <li>Home </li>
+            <li>  About </li>
+            <li> Get   </li>
+            <li>  More  </li>
+        </ul>
+        li{
+            display: inline;
+            padding-left: 40px;
+            }
+         li {
+            text-decoration: none;
+            color: #F93822FF;
+            font-size: 25px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+        .n1 {
+            color:white;
+            font-family: sans-serif;
+             margin-top: 35;  
+             
+        }
+        .n2{
+    </xmp>
+    </div>
+</body>
+</html>
